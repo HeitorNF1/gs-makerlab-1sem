@@ -1,6 +1,6 @@
 # 🦾 Braço Robótico de Coleta de Amostras — Docking & Retrieval
 
-> Projeto de sistemas embarcados simulando um braço robótico para manipulação de carga em ambiente de microgravidade, controlado via Monitor Serial.
+> Projeto de maker lab simulando um braço robótico para manipulação de carga em ambiente de microgravidade, controlado via Monitor Serial.
 
 ---
 
