@@ -55,7 +55,7 @@ Arduino Uno
 ## 🖥️ Como simular no Tinkercad
 
 1. Acesse o link público do projeto:  
-   **🔗 [https://www.tinkercad.com/things/j7mgaKusegr/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=zOyf7BPZ7nfplVpphuhD8V7wv2v9yjqgMlMJyJ0MA4w]**
+   **[🔗 Abrir projeto no Tinkercad](https://www.tinkercad.com/things/j7mgaKusegr/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=zOyf7BPZ7nfplVpphuhD8V7wv2v9yjqgMlMJyJ0MA4w)**
 
 2. Clique em **"Tinker this"** para abrir uma cópia editável, ou apenas visualize.
 
