@@ -9,14 +9,14 @@
 ```
 gs-makerlab-1sem/
 │
-├── firmware/
+├── src/
 │   └── braco_robotico.ino       # Código Arduino (controle via Serial)
 │
-├── modelo-3d/
+├── model/
 │   ├── garra_robotica.scad      # Arquivo nativo OpenSCAD
 │   └── garra_robotica.stl       # Exportação universal para impressão 3D
 │
-├── imagens/
+├── images/
 │   ├── circuito_tinkercad.png   # Print do circuito simulado
 │   └── modelo_3d_render.png     # Render da garra no OpenSCAD
 │
@@ -117,13 +117,13 @@ O modelo foi desenvolvido em **OpenSCAD** e representa a garra do braço com enc
 ## 📸 Imagens do Projeto
 
 ### Circuito no Tinkercad
-![Circuito Tinkercad](imagens/circuito_tinkercad.png)
-![Circuito Tinkercad](imagens/circuito_tinkercad_rodando.png)
+![Circuito Tinkercad](images/circuito_tinkercad.png)
+![Circuito Tinkercad](images/circuito_tinkercad_rodando.png)
 
 
 ### Modelo 3D — Garra
-![Modelo 3D](imagens/modelo_3d_render.png)
-![Modelo 3D](imagens/modelo_3d_render2.png)
+![Modelo 3D](images/modelo_3d_render.png)
+![Modelo 3D](images/modelo_3d_render2.png)
 
 ---
 
