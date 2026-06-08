@@ -118,10 +118,11 @@ O modelo foi desenvolvido em **OpenSCAD** e representa a garra do braço com enc
 
 ### Circuito no Tinkercad
 ![Circuito Tinkercad](imagens/circuito_tinkercad.png)
-![Circuito Tinkercad](imagens/circuito_tinkercad2.png)
+
 
 ### Modelo 3D — Garra
 ![Modelo 3D](imagens/modelo_3d_render.png)
+![Modelo 3D](imagens/modelo_3d_render2.png)
 
 ---
 
