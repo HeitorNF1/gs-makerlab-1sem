@@ -133,6 +133,14 @@ Este projeto simula um sistema de **Docking & Retrieval** para ambientes espacia
 
 ---
 
+## Time de Desenvolvimento
+
+ - Guilherme Daher - 98611
+ - Gabriel Freitas - 550187
+ - Heitor Nobre - 551539
+ - Vinicius Yamashita - 550908
+ - Lucca Alexandre - 99700
+
 ## 🛠️ Tecnologias utilizadas
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
